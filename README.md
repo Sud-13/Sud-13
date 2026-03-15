@@ -30,13 +30,13 @@ Currently working on **Palo Alto NGFW, Cisco ASA FirePower NGFW, Cisco ISE, Zsca
 
 ## 🔥 Top Skills
 
-• Palo Alto Firewall Engineering
-• Cisco ASA Security
+• Palo Alto NGFW
+• Cisco ASA, FirePower NGFW
 • Cisco ISE (802.1X Authentication)
-• Zscaler ZIA & ZPA
+• Zscaler Zscaler Internet Access(ZIA), Zscaler Private Access(ZPA), Zscaler Digital Experience(ZDX), Zscaler Trust Brunch(ZTB), F5 LTM
 • VPN Technologies (IPSec / SSL)
-• Network Traffic Analysis
-• Firewall Rule Optimization
+• Network Traffic Analysis Wireshark
+• Firewall Rule Optimization by FireMon
 • Network Security Troubleshooting
 
 ---
@@ -50,8 +50,8 @@ Currently working on **Palo Alto NGFW, Cisco ASA FirePower NGFW, Cisco ISE, Zsca
 
 ### 🧪 Network Security Labs
 
-* Cisco ISE 802.1X Lab
-* IPSec VPN Architecture Lab
+* Cisco ISE:- 802.1X| MAB| TACACS+| Guest Lab
+* IPSec & SSL VPN Architecture Lab
 * Network Segmentation Lab
 
 ### 🤖 Security Automation
@@ -85,7 +85,7 @@ Currently working on **Palo Alto NGFW, Cisco ASA FirePower NGFW, Cisco ISE, Zsca
 ## 📫 Connect With Me
 
 LinkedIn: https://linkedin.com
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [abhidelhind@gmail.com](mailto:abhidelhind@gmail.com)
 
 ---
 
