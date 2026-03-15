@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @Sud-13
-- 👀 I’m interested in automation 
-- 🌱 I’m currently learning security 
+Hi, My name is Sudipto Bisai
+Network Security Engineer | CCNP Security | CCIE Security Candidate
+
+Focused on:
+- Network Infrastructure 
+- Network Monitoring
+- SIEM
+- Network Security
+- Policy Manager tools
+- Zero Trust Architecture
+- Firewall Engineering
+- Identity Based Access Control
+
+Technologies:
+ASR, ISR Cloud Cisco Router , Cisco L3 Switch | Palo Alto | Cisco ASA, FTD, FMC | Cisco ISE | Zscaler-ZIA,ZPA,ZTB | IPsec & SSL VPN | Python | Wireshark | SolarWind | FireMon | Splunk 
 
 - 📫 How to reach me mr.sudiptobisai@gmail.com
 
