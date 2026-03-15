@@ -1,62 +1,92 @@
-# Hi There 
+# Hi there 👋 I'm Sudipto Bisai
 
-Myself **Sudipto Bisai**, a **Network Security Engineer** with strong expertise in **Enterprise Network Security, Firewall Engineering, Network Access Control, and Zero Trust Architecture**. I currently work as a **Security Professional at Big MNC **, where my responsibilities include securing enterprise infrastructure, managing firewall environments, implementing secure access control, and troubleshooting complex network security issues.
+Network Security Engineer | Firewall & NAC IAM Specialist | Zero Trust Expert | CCIE Security (In Progress)
 
-My work focuses on **Palo Alto NGFW, Cisco ASA FirePower NGFW, Cisco ISE (802.1X,MAB,Guest,RADIUS,TACACS+,PixGrid, Trustsec), Zscaler (ZIA,ZPA,ZDX & ZTB), VPN technologies like IPsec ,SSL, and Zero Trust architecture**. I actively design and maintain security policies, troubleshoot network threats, analyze traffic flows, and strengthen enterprise security posture & mitigate security loopholes from data Infrastructure.
-
-I possess strong knowledge of **TCP/IP, packet flow analysis, network segmentation, identity-based access control, and Zero Trust security models**. My interests also include **network security automation, packet analysis using Wireshark, and developing tools that improve network visibility and security monitoring**.
-
-I am currently focused on **advancing my expertise in enterprise security architecture and preparing for the CCIE Security certification**.
+I specialize in **enterprise network security, firewall engineering, and secure network architecture**.
+Currently working on **Palo Alto NGFW, Cisco ASA FirePower NGFW, Cisco ISE, Zscaler, and Zero Trust architectures** while preparing for **CCIE Security**.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Network Security Engineer | Firewall Specialist | Zero Trust Enthusiast | CCIE Security Candidate
+🔐 Network Security Engineer at **BT**
+🛡️ Focused on **Firewall Security, NAC, VPN, and Zero Trust**
+📡 Strong background in **TCP/IP, packet analysis, and enterprise network troubleshooting**
+📚 Passionate about **building network security labs and automation tools**
+
+---
+
+## 🛠 Tech Stack
+
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewall-orange)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
+![Cisco ISE](https://img.shields.io/badge/Cisco%20ISE-NAC-blue)
+![Zscaler](https://img.shields.io/badge/Zscaler-Zero%20Trust-blue)
+![Python](https://img.shields.io/badge/Python-Automation-yellow)
+![Linux](https://img.shields.io/badge/Linux-Security-black)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-blue)
+
+---
+
+## 🔥 Top Skills
+
+• Palo Alto Firewall Engineering
+• Cisco ASA Security
+• Cisco ISE (802.1X Authentication)
+• Zscaler ZIA & ZPA
+• VPN Technologies (IPSec / SSL)
+• Network Traffic Analysis
+• Firewall Rule Optimization
+• Network Security Troubleshooting
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Firewall Engineering
+
+* Palo Alto Firewall Packet Flow Guide
+* Cisco ASA NAT Deep Dive
+
+### 🧪 Network Security Labs
+
+* Cisco ISE 802.1X Lab
+* IPSec VPN Architecture Lab
+* Network Segmentation Lab
+
+### 🤖 Security Automation
+
+* Firewall Log Analyzer
+* Network Port Scanner
+* Threat Detection Script
+
+---
+
+## 📊 GitHub Stats
+
+![Sudipto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sud-13\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sud-13\&theme=github-dark)
+
+---
+
+## 🎯 Current Goals
+
+• Achieve **CCIE Security**
+• Build advanced **network security labs**
+• Develop **automation tools for security engineers**
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com
+Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
 
 "Securing networks one packet at a time."
-
----
-
-## 🔗 Links
-
-LinkedIn
-GitHub
-Email
-
----
-
-## Some of My Top Skills Are
-
-Enterprise Firewall Engineering (Palo Alto, Cisco ASA FirePower NGFW)
-Network Access Control & Identity Security (Cisco ISE, 802.1X, RADIUS TACACS)
-Secure Remote Access & VPN Technologies (IPSec, SSL VPN)
-Zero Trust Architecture & Secure Network Design (ZIA,ZPA, ZTB)
-Network Traffic Analysis & Packet Inspection (Wireshark)
-Network Security Troubleshooting & Threat Investigation (SolarWind, Splunk)
-Security Policy Design & Firewall Rule Optimization 9Policy Manager - FireMon)
-Network Segmentation & Secure Infrastructure Design
-
----
-
-## 🌍 Open Source Contributions
-
-### Network Security Labs
-
-A collection of practical **network security labs and documentation** covering enterprise technologies such as firewall configuration, network authentication, VPN architectures, and Zero Trust design.
-
-Projects include:
-
-• Palo Alto Firewall Packet Flow Analysis
-• Cisco ISE 802.1X Authentication Lab
-• VPN Architecture and IPSec Deep Dive
-• Network Security Automation Scripts
-• Firewall Log Analysis Tools
-
-These projects aim to help security engineers better understand **enterprise network security architecture and real-world troubleshooting scenarios**.
-
----
-
-## 📫 Connect with Me
-
-Email: abhidelhind@gmail.com
